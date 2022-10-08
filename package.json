@@ -1,0 +1,23 @@
+{
+  "name": "jset-practice",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "tasks.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MahdiAghaali/jset-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MahdiAghaali/jset-practice/issues"
+  },
+  "homepage": "https://github.com/MahdiAghaali/jset-practice#readme",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}
